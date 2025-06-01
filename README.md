@@ -1,6 +1,3 @@
-VPApp
-This project was generated with Angular CLI version 18.2.7.
-
 ## Project Background
 ABC is a leading logistics service provider with a comprehensive presence across all countries in Southeast Asia. Offering a wide range of logistics solutions—from transportation to warehousing—Ryo has established itself as a trusted partner for numerous e-commerce businesses. Alongside this rapid growth, ABC faces several critical challenges in managing its supply chain and optimizing operational efficiency. ABC is committed to leveraging advanced data-driven approaches to tackle these problems.
 - Late delivery risk: The company lacks clear insights into the root causes of frequent delivery delays, which negatively impact customer satisfaction and brand reputation.
