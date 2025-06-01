@@ -17,8 +17,8 @@ The raw dataset contains all information combined into a single comprehensive ta
 - PRODUCT: lists product information such as product ID, category reference, name, description, image, price, and status.
 - CATEGORY: defines product categories with a category ID, linked to a department, and includes the category name.
 - DEPARTMENT: eepresents departments with an ID, name, and geographical coordinates (latitude and longitude).
+![LogisticsPr_ERD drawio (1)](https://github.com/user-attachments/assets/8917365c-e673-4a33-aaf0-1b8e9423f56d)
 
-![LogisticsPr_ERD drawio](https://github.com/user-attachments/assets/49781cfc-5d1c-4b76-9d45-d3840eea29cd)
 
 
 
