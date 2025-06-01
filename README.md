@@ -13,7 +13,13 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 Targeted SQL queries regarding various business questions can be found here.
 
 ## Data structure & Initial check
-have a description for each table in the dataset
+The raw dataset contains all information combined into a single comprehensive table. To provide a clearer understanding of the data structure and the relationships between different columns, an Entity-Relationship Diagram (ERD) is used.
+- CUSTOMERS: stores detailed information about customers, including their ID, name, contact info, location, and segment.
+- ORDER: contains order-level data such as order ID, customer reference, date, status, location, sales, profit, delivery details, and shipping info.
+- ORDER DETAILS: holds detailed information for each item within an order, including product ID, discounts, quantity, price, and total amount.
+- PRODUCT: lists product information such as product ID, category reference, name, description, image, price, and status.
+- CATEGORY: defines product categories with a category ID, linked to a department, and includes the category name.
+- DEPARTMENT: eepresents departments with an ID, name, and geographical coordinates (latitude and longitude).
 
 ![LogisticsPr_ERD drawio](https://github.com/user-attachments/assets/49781cfc-5d1c-4b76-9d45-d3840eea29cd)
 
