@@ -13,7 +13,8 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 Targeted SQL queries regarding various business questions can be found here.
 
 ## Data structure & Initial check
-give the ERD here
+![image](https://github.com/user-attachments/assets/008e1bb1-258a-4b10-bb2c-95c0a014af82)
+
 
 ## Executive Summary
 Overview of the findings (give an overall introduction + Dashboard + Insights) Each insight should contain: quantified value business metric simple story about historical trend (Recommendations from those insights)
