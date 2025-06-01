@@ -13,7 +13,8 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 Targeted SQL queries regarding various business questions can be found here.
 
 ## Data structure & Initial check
-![image](https://github.com/user-attachments/assets/008e1bb1-258a-4b10-bb2c-95c0a014af82)
+
+![LogisticsPr_ERD drawio](https://github.com/user-attachments/assets/cb3d6967-3576-44db-8884-bcbeacc158c3)
 
 
 ## Executive Summary
