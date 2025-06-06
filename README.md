@@ -25,7 +25,7 @@ Over the years, the company faced challenges in its delivery logistics performan
 - Total Orders: 65.74K
 - Completed Orders: 28.96K
 - Late Delivery Rate: 57.31%
-- On-Time Delivery Rate: 18.72% \\
+- On-Time Delivery Rate: 18.72% <br>
 Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement.
 ![Delivery performance](https://github.com/user-attachments/assets/2316e34f-e656-4c2d-8d89-1da2b8d1d036)
 
