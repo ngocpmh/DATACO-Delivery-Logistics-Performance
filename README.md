@@ -20,13 +20,11 @@ The raw dataset contains all information combined into a single comprehensive ta
 ![LogisticsPr_ERD drawio (1)](https://github.com/user-attachments/assets/8917365c-e673-4a33-aaf0-1b8e9423f56d)
 
 ## Executive Summary
-**Overview of the findings**
-Over the years, the company faced challenges in its delivery logistics performance, showing notable issues with timely deliveries. The data reveals significant trends in order fulfillment:
+**Overview of the findings**  Over the years, the company faced challenges in its delivery logistics performance, showing notable issues with timely deliveries. The data reveals significant trends in order fulfillment:
 - Total Orders: 65.74K
 - Completed Orders: 28.96K
 - Late Delivery Rate: 57.31%
-- On-Time Delivery Rate: 18.72%
-Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement.
+- On-Time Delivery Rate: 18.72%  Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement.
 ![Delivery performance](https://github.com/user-attachments/assets/2316e34f-e656-4c2d-8d89-1da2b8d1d036)
 
 
