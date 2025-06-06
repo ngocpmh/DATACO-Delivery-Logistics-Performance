@@ -21,7 +21,9 @@ The raw dataset contains all information combined into a single comprehensive ta
 
 ## Executive Summary
 ### Overview of the findings
-Over the years, the company faced challenges in its delivery logistics performance, showing notable issues with timely deliveries. The data reveals that out of 65.74K total orders, 28.96K were completed, resulting in a late delivery rate of 57.31% based on the total orders and an on-time delivery rate of only 18.72%. Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement.
+Over the years, the company faced challenges in its delivery logistics performance, showing notable issues with timely deliveries. The data reveals that out of 65.74K total orders, 28.96K were completed, resulting in a late delivery rate of 57.31% based on the total orders and an on-time delivery rate of only 18.72%. Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement. 
+<br>
+
 ![Delivery performance](https://github.com/user-attachments/assets/2316e34f-e656-4c2d-8d89-1da2b8d1d036)
 
 
