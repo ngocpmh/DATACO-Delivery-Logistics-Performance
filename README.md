@@ -25,8 +25,12 @@ Over the years, the company faced challenges in its delivery logistics performan
 <br>
 
 ![Delivery performance](https://github.com/user-attachments/assets/2316e34f-e656-4c2d-8d89-1da2b8d1d036)
-
-
+Insights:
+- Out of nearly 66K total orders, only about 29K have been successfully completed and delivered.
+- The late delivery rate is significantly high at 57%, while the on-time delivery rate is alarmingly low at just 19%.
+- A comparison of late and on-time deliveries across different dimensions such as shipping methods, product categories, regions, and customer segments shows that these factors do not appear to have a significant impact on the late delivery rate. This suggests that the delays are more of an internal issue within the company's logistics and are not tied to specific products or customer segments.
+- Standard Class is the most commonly used shipping method and also has the lowest rate of late deliveries (38.07%). Additionally, it is the only shipping method that reports advance shipping.
+- Both First Class and Second Class show relatively high rates of late deliveries (95.32% and 76.63%, respectively), indicating inefficiencies in these methods.
 
 
 Further help
