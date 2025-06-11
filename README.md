@@ -31,7 +31,9 @@ Over the years, the company faced challenges in its delivery logistics performan
 - A comparison of late and on-time deliveries across different dimensions such as shipping methods, product categories, regions, and customer segments shows that these factors do not appear to have a significant impact on the late delivery rate. This suggests that the delays are more of an internal issue within the company's logistics and are not tied to specific products or customer segments.
 - Standard Class is the most commonly used shipping method and also has the lowest rate of late deliveries (38.07%). Additionally, it is the only shipping method that reports advance shipping.
 - Both First Class and Second Class show relatively high rates of late deliveries (95.32% and 76.63%, respectively), indicating inefficiencies in these methods.
+![latedelivery](https://github.com/user-attachments/assets/0633b4ad-3fd0-4c15-98d1-c5ee28d9846c)
+### Insight
+- Second Class has the greatest average delay of 2 days, while the other methods show a 1-day difference, suggesting that delays in Second Class are typically more severe
+- Upon further analysis of the top 5 regions with the highest order volumes, Standard Class remains the most popular, followed by First Class and Second Class, which share similar order numbers.
+- Despite this, the late delivery rates for First Class and Second Class are the highest in these regions, indicating that the company should prioritize improvements in these shipping methods. 
 
-
-Further help
-To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
