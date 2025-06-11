@@ -1,4 +1,4 @@
-## Project Background
+## PROJECT BACKGROUND
 ABC is a leading logistics service provider with a comprehensive presence across all countries in Southeast Asia. Offering a wide range of logistics solutions—from transportation to warehousing—Ryo has established itself as a trusted partner for numerous e-commerce businesses. Alongside this rapid growth, ABC faces several critical challenges in managing its supply chain and optimizing operational efficiency. ABC is committed to leveraging advanced data-driven approaches to tackle these problems.
 - Late delivery risk: The company lacks clear insights into the root causes of frequent delivery delays, which negatively impact customer satisfaction and brand reputation.
 - Delivery optimization: An analysis  of ABC's delivery process (improving route planning, selecting appropriate shipping methods etc)  to reduce delivery times and costs while increasing on-time delivery rates.
@@ -9,7 +9,7 @@ The SQL queries utilized to inspect and perform quality checks can be found here
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
 Targeted SQL queries regarding various business questions can be found here.
 
-## Data structure & Initial check
+## DATA STRUCTURE
 The raw dataset contains all information combined into a single comprehensive table. To provide a clearer understanding of the data structure and the relationships between different columns, an Entity-Relationship Diagram (ERD) is used.
 - CUSTOMERS: stores detailed information about customers, including their ID, name, contact info, location, and segment.
 - ORDER: contains order-level data such as order ID, customer reference, date, status, location, sales, profit, delivery details, and shipping info.
@@ -19,7 +19,7 @@ The raw dataset contains all information combined into a single comprehensive ta
 - DEPARTMENT: eepresents departments with an ID, name, and geographical coordinates (latitude and longitude).
 ![LogisticsPr_ERD drawio (1)](https://github.com/user-attachments/assets/8917365c-e673-4a33-aaf0-1b8e9423f56d)
 
-## Executive Summary
+## EXECUTIVE SUMMARY
 ### Overview of the findings
 Over the years, the company faced challenges in its delivery logistics performance, showing notable issues with timely deliveries. The data reveals that out of 65.74K total orders, 28.96K were completed, resulting in a late delivery rate of 57.31% based on the total orders and an on-time delivery rate of only 18.72%. Overall, late deliveries remain a prominent issue. In later sections, we will explore contributing factors and highlight key opportunities for improvement. 
 <br>
@@ -31,9 +31,16 @@ Over the years, the company faced challenges in its delivery logistics performan
 - A comparison of late and on-time deliveries across different dimensions such as shipping methods, product categories, regions, and customer segments shows that these factors do not appear to have a significant impact on the late delivery rate. This suggests that the delays are more of an internal issue within the company's logistics and are not tied to specific products or customer segments.
 - Standard Class is the most commonly used shipping method and also has the lowest rate of late deliveries (38.07%). Additionally, it is the only shipping method that reports advance shipping.
 - Both First Class and Second Class show relatively high rates of late deliveries (95.32% and 76.63%, respectively), indicating inefficiencies in these methods.
-![latedelivery](https://github.com/user-attachments/assets/0633b4ad-3fd0-4c15-98d1-c5ee28d9846c)
-### Insight
-- Second Class has the greatest average delay of 2 days, while the other methods show a 1-day difference, suggesting that delays in Second Class are typically more severe
-- Upon further analysis of the top 5 regions with the highest order volumes, Standard Class remains the most popular, followed by First Class and Second Class, which share similar order numbers.
-- Despite this, the late delivery rates for First Class and Second Class are the highest in these regions, indicating that the company should prioritize improvements in these shipping methods. 
+![latedelivery](https://github.com/user-attachments/assets/16dec752-9166-40aa-bca5-634b2a2afa49)
 
+### Insights:
+- Second Class has the greatest average delay of 2 days, while the other methods show a 1-day difference, suggesting that delays in Second Class are typically more severe.
+- Upon further analysis of the top 5 regions with the highest order volumes, Standard Class remains the most popular, followed by First Class and Second Class, which share similar order numbers. 
+- Despite this, the late delivery rates for First Class and Second Class are the highest in these regions, indicating that the company should prioritize improvements in these shipping methods.
+
+### Recommendations: 
+- Leverage Standard Class method: As the most commonly used method with the lowest late delivery rate, Standard Class should be further optimized, especially since it is the only method showing **"Advance shipping" status.**
+- The company should focus on **improving First Class and Second Class** method by
+  + Ensure that sufficient manpower and resources are allocated to First and Second Class orders, especially for faster, time-sensitive deliveries.
+  + Strengthen collaboration with external shipping partners to reduce delays and improve efficiency.
+- Enhance Regional Delivery Performance: Focus on **regions with high order volumes and late delivery rates**, like Southeast Asia. ABC should partner with local logistics providers or invest in regional warehouses to speed up deliveries and reduce delays.
