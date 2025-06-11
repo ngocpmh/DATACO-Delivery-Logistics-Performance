@@ -1,7 +1,7 @@
 ## PROJECT BACKGROUND
-ABC is a leading logistics service provider with a comprehensive presence across all countries in Southeast Asia. Offering a wide range of logistics solutions—from transportation to warehousing—Ryo has established itself as a trusted partner for numerous e-commerce businesses. Alongside this rapid growth, ABC faces several critical challenges in managing its supply chain and optimizing operational efficiency. ABC is committed to leveraging advanced data-driven approaches to tackle these problems.
+Dataco is a leading logistics service provider with a comprehensive presence across all countries in Southeast Asia. Offering a wide range of logistics solutions—from transportation to warehousing—Ryo has established itself as a trusted partner for numerous e-commerce businesses. Alongside this rapid growth, ABC faces several critical challenges in managing its supply chain and optimizing operational efficiency. Dataco is committed to leveraging advanced data-driven approaches to tackle these problems.
 - Late delivery risk: The company lacks clear insights into the root causes of frequent delivery delays, which negatively impact customer satisfaction and brand reputation.
-- Delivery optimization: An analysis  of ABC's delivery process (improving route planning, selecting appropriate shipping methods etc)  to reduce delivery times and costs while increasing on-time delivery rates.
+- Delivery optimization: An analysis  of Dataco's delivery process (improving route planning, selecting appropriate shipping methods etc)  to reduce delivery times and costs while increasing on-time delivery rates.
 - Regional logistics performance: Comparing delivery timeliness and shipping costs across various regions to identify high-performing areas and regions requiring operational improvements.
 
 ## DATA STRUCTURE
