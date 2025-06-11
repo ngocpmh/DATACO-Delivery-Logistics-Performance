@@ -4,11 +4,6 @@ ABC is a leading logistics service provider with a comprehensive presence across
 - Delivery optimization: An analysis  of ABC's delivery process (improving route planning, selecting appropriate shipping methods etc)  to reduce delivery times and costs while increasing on-time delivery rates.
 - Regional logistics performance: Comparing delivery timeliness and shipping costs across various regions to identify high-performing areas and regions requiring operational improvements.
 
-An interactive PowerBI dashboard can be downloaded here.
-The SQL queries utilized to inspect and perform quality checks can be found here.
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
-Targeted SQL queries regarding various business questions can be found here.
-
 ## DATA STRUCTURE
 The raw dataset contains all information combined into a single comprehensive table. To provide a clearer understanding of the data structure and the relationships between different columns, an Entity-Relationship Diagram (ERD) is used.
 - CUSTOMERS: stores detailed information about customers, including their ID, name, contact info, location, and segment.
