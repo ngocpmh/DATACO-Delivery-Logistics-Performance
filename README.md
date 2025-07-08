@@ -4,8 +4,8 @@ Dataco is a leading logistics service provider with a comprehensive presence acr
 - Delivery optimization: An analysis  of Dataco's delivery process (improving route planning, selecting appropriate shipping methods etc)  to reduce delivery times and costs while increasing on-time delivery rates.
 - Regional logistics performance: Comparing delivery timeliness and shipping costs across various regions to identify high-performing areas and regions requiring operational improvements.
 
-You can view dashboard here: [https://app.powerbi.com/groups/me/reports/8840bab8-db27-431e-81d9-edaeceef4197?ctid=07acb355-56bc-489b-b98c-8fea440460e8&pbi_source=linkShare
-](url)
+You can view dashboard here: https://app.powerbi.com/groups/me/reports/8840bab8-db27-431e-81d9-edaeceef4197?ctid=07acb355-56bc-489b-b98c-8fea440460e8&pbi_source=linkShare
+
 ## DATA STRUCTURE
 The raw dataset contains all information combined into a single comprehensive table. To provide a clearer understanding of the data structure and the relationships between different columns, an Entity-Relationship Diagram (ERD) is used.
 - CUSTOMERS: stores detailed information about customers, including their ID, name, contact info, location, and segment.
